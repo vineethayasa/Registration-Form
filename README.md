@@ -16,7 +16,7 @@ This project is a registration form website developed as a part of the WD101 cap
 - TailwindCSS
 - JavaScript
 
-## About WD101 Capstone Project
+## About WD101 Course
 
 This project serves as the culmination of the WD101 course, which is the first course in the minor degree program offered by Pupilfirst. Pupilfirst is an online learning platform aimed at providing quality education in web development and related fields. The capstone project is designed to allow students to demonstrate their proficiency in web development by applying the concepts and skills learned throughout the course.
 
